@@ -1,5 +1,5 @@
 booking_date;description;amount;category;maingroup;subgroup
-01.07.2023;Betterplace;-25.0;expenses;other expenses;donations
+01.07.2023;cash payment/income;50.0;income;other income;other income
 01.07.2023;Savings;-150.0;expenses;savings;savings
 01.07.2023;Telekom;-8.99;expenses;contracts;smartphone
 01.07.2023;Allianz;-80.0;expenses;insurances;car insurance
@@ -10,6 +10,7 @@ booking_date;description;amount;category;maingroup;subgroup
 01.07.2023;SpaceX;1800.0;income;salary;salary
 01.07.2023;Rent;-1200.0;expenses;apartment;rent
 01.07.2023;Transfer to 2nd account;-200.0;expenses;account stuff;transfers
+01.07.2023;Betterplace;-25.0;expenses;other expenses;donations
 01.07.2023;EWE TEL;-40.0;expenses;apartment;internet
 03.07.2023;Lidl;-76.56;expenses;cost of living;groceries/drugstore
 07.07.2023;ARO Restaurant;-38.99;expenses;quality time;restaurant and bar
@@ -19,16 +20,16 @@ booking_date;description;amount;category;maingroup;subgroup
 09.07.2023;Rewe;-23.1;expenses;cost of living;groceries/drugstore
 09.07.2023;Netto;-110.98;expenses;cost of living;groceries/drugstore
 12.07.2023;Barts Barber Shop;-20.0;expenses;cost of living;barber
-12.07.2023;Hirsch Apotheke;-4.95;expenses;cost of living;pharmacy
 12.07.2023;Fressnapf;-48.99;expenses;dog;dog food
+12.07.2023;Hirsch Apotheke;-4.95;expenses;cost of living;pharmacy
 13.07.2023;Cinestar;-35.0;expenses;quality time;activites
 13.07.2023;Fleur;-15.0;expenses;other expenses;presents
 13.07.2023;Thalia;-20.0;expenses;other expenses;other expenses
 14.07.2023;Steam Order 123;-15.99;expenses;other expenses;videogames
+18.07.2023;Amazon Order 456 (dog toy);-12.85;expenses;dog;dog stuff
 18.07.2023;Rewe;-6.98;expenses;cost of living;groceries/drugstore
 18.07.2023;Lidl;-78.21;expenses;cost of living;groceries/drugstore
 18.07.2023;Combi;-96.78;expenses;cost of living;groceries/drugstore
-18.07.2023;Amazon Order 456 (dog toy);-12.85;expenses;dog;dog stuff
 21.07.2023;Burger King;-12.45;expenses;quality time;restaurant and bar
 22.07.2023;Famila;-42.92;expenses;cost of living;groceries/drugstore
 22.07.2023;Transfer from 2nd account;50.0;income;account stuff;transfers
@@ -37,6 +38,6 @@ booking_date;description;amount;category;maingroup;subgroup
 23.07.2023;Amazon Order 789 (blanket);-48.53;expenses;other expenses;presents
 26.07.2023;Lindas Birthday;-10.0;expenses;other expenses;presents
 26.07.2023;Avia;-48.65;expenses;car;fuel/carwash
-28.07.2023;Aleco;-45.0;expenses;cost of living;groceries/drugstore
 28.07.2023;Famila;-17.1;expenses;cost of living;groceries/drugstore
+28.07.2023;Aleco;-45.0;expenses;cost of living;groceries/drugstore
 29.07.2023;Steam Order 987;-48.99;expenses;other expenses;videogames
